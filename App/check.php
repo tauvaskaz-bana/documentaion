@@ -25,5 +25,5 @@
 
     $mysql-> close();
 
-    header('Location: http://sys2/form.html');
+    header('Location: http://sys2/form.php');
 ?>
